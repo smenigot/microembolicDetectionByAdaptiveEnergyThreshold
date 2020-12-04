@@ -1,0 +1,119 @@
+# depslib dependency file v1.0
+1412170209 source:e:\semenigot\documents\matlab\emboles\embolejm\software\embole\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"openWaveFile.h"
+	"emboleDetection.h"
+	"mathTools.h"
+
+1412170448 e:\semenigot\documents\matlab\emboles\embolejm\software\embole\openwavefile.h
+
+1412170450 e:\semenigot\documents\matlab\emboles\embolejm\software\embole\emboledetection.h
+
+1412265547 e:\semenigot\documents\matlab\emboles\embolejm\software\embole\mathtools.h
+
+1412266624 source:e:\semenigot\documents\matlab\emboles\embolejm\software\embole\mathtools.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"mathTools.h"
+
+1412170453 source:e:\semenigot\documents\matlab\emboles\embolejm\software\embole\openwavefile.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"openWaveFile.h"
+
+1412265804 source:e:\semenigot\documents\matlab\emboles\embolejm\software\embole\emboledetection.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"openWaveFile.h"
+	"emboleDetection.h"
+	"fftw3.h"
+	"mathTools.h"
+
+1353853821 c:\lib\fftw64\fftw3.h
+	<stdio.h>
+	<stddef.h>
+
+1412870227 source:e:\semenigot\documents\matlab\emboles\embolejm\software\embole.v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"openWaveFile.h"
+	"emboleDetection.h"
+	"mathTools.h"
+
+1412850623 e:\semenigot\documents\matlab\emboles\embolejm\software\embole.v2\openwavefile.h
+
+1412850586 e:\semenigot\documents\matlab\emboles\embolejm\software\embole.v2\emboledetection.h
+
+1412860291 e:\semenigot\documents\matlab\emboles\embolejm\software\embole.v2\mathtools.h
+
+1412862358 source:e:\semenigot\documents\matlab\emboles\embolejm\software\embole.v2\mathtools.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"mathTools.h"
+
+1412850736 source:e:\semenigot\documents\matlab\emboles\embolejm\software\embole.v2\openwavefile.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"openWaveFile.h"
+
+1412863112 source:e:\semenigot\documents\matlab\emboles\embolejm\software\embole.v2\emboledetection.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<omp.h>
+	"mathTools.h"
+	"emboleDetection.h"
+	"fftw3.h"
+
+1412950072 source:e:\semenigot\documents\matlab\emboles\seuillageadaptatif\software\embole.v2\emboledetection.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<omp.h>
+	"mathTools.h"
+	"emboleDetection.h"
+	"fftw3.h"
+
+1412860291 e:\semenigot\documents\matlab\emboles\seuillageadaptatif\software\embole.v2\mathtools.h
+
+1412850586 e:\semenigot\documents\matlab\emboles\seuillageadaptatif\software\embole.v2\emboledetection.h
+
+1412862358 source:e:\semenigot\documents\matlab\emboles\seuillageadaptatif\software\embole.v2\mathtools.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"mathTools.h"
+
+1412946249 source:e:\semenigot\documents\matlab\emboles\seuillageadaptatif\software\embole.v2\openwavefile.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"openWaveFile.h"
+
+1412850623 e:\semenigot\documents\matlab\emboles\seuillageadaptatif\software\embole.v2\openwavefile.h
+
+1413188610 source:e:\semenigot\documents\matlab\emboles\seuillageadaptatif\software\embole.v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"openWaveFile.h"
+	"emboleDetection.h"
+	"mathTools.h"
+
